@@ -34,6 +34,6 @@ In a standard answer we are looking for the following things
 
 * If you modularize your code then zip everything together. Best if you can make it a package which we can install in a virtualenv using `python setup.py install` or `pip install -e .` 
 
-* At least some kind of documentation (a readme.MD maybe) which gives us a way to run the code and see the outputs. 
+* At least some kind of documentation (a README.md maybe) which gives us a way to run the code and see the outputs. 
 
 * If you use any extra libraries then please create a requirements.txt file with them so that we can `pip install` them. 
