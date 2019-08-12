@@ -1,4 +1,5 @@
 **Note**: language to use: Python
+**Note-2**: Please do not use any external library
 
 For a given chemical formula represented by a string, count the number of atoms of each element contained in the molecule and return a dict.
 

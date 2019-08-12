@@ -1,5 +1,7 @@
 # Docstring converter
 
+**Note**: You can use python's built in modules such as `ast` but please do not use any external library
+
 Write a runnable python script that will convert `@param` docstring into a Google Python style docstring (http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
 
 We will take the following python file as input:
