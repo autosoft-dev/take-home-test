@@ -5,13 +5,13 @@ _version_ = 1.0
 
 This repository contains the take home tests for CodistAI
 
-As CodistAI is working on the mission to *serve software developers* by analyzing source code and giving them easy access and understanding on piece of code they have not seen before, it is easy to imagine that we deal with a lot of static code andlysis and Machine Learning. 
+As CodistAI is working on the mission to **serve software developers** by analyzing source code and giving them easy access and understanding on piece of code they have not seen before, it is easy to imagine that we deal with a lot of static code andlysis and Machine Learning. 
 
 The accompanying directory has a collection of tests that is corresponding to this version. Please note that tests will change from version to version. 
 
 You will be given then name (or names) of a certain folder(s) and you are requested to finish the test within three days from the day we hand it out. Although, the actual amount of time you should spend on a test should not cross more than 4hours (unless otherwise mentioned.)
 
-*Please Note* If a test does not allow any external libary then it will be mentioned in the test's description file. And in that case please do not use one. 
+**Please Note** If a test does not allow any external libary then it will be mentioned in the test's description file. And in that case please do not use one. 
 
 If you have any problem to understanding any part of the documents or the data associated with them (if any) then please contact us.
 
