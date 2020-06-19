@@ -33,7 +33,7 @@ Here are the two questions we had been wondering
 
 1. If you run both of them to generate the sum of first 50 Fibonacci numbers, like so `fib1(50)` and `fib2(50)` what do you observe? Can you explain your observations?
 
-2. Can you propose a better version of fib1 which may overcome the problem and let us compute `fib1(50)`? 
+2. Can you propose a better version of fib1? 
 
 --------
 
