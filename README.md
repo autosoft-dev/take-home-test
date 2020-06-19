@@ -37,3 +37,12 @@ In a standard answer we are looking for the following things
 * At least some kind of documentation (a README.md maybe) which gives us a way to run the code and see the outputs. 
 
 * If you use any extra libraries then please create a requirements.txt file with them so that we can `pip install` them. 
+
+
+## Special Notes about Tests Related to Fundamentals Of Computer Science
+
+* Some tests are related to fundamental of computer science (Algorithms, Complexity, Information Theory, Computation, Graph Theory etc.)
+
+* Sometimes, for some of those tests, we do not need code, and rather some kind of text output (e.g. Two versions of same algorightm is given and asked to make a comparison among them)
+
+* In those cases you just give the text output in a clean and easy-to-read way via either a Markdown file, or a text file. Please indicate different sections of the text files. 
