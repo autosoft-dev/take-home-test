@@ -37,4 +37,4 @@ Here are the two questions we had been wondering
 
 --------
 
-3. (This is a bonus question, only applicable if you have solved 2.) What are the additional observations that you made with the better version you proposed? Also what are your ideas about the time complexity of these two functions?
+3. (This is a bonus question, only applicable if you have solved 2. and **not** mandatory, however, nice to be answered :)) What are the additional observations that you made with the better version you proposed? Also what are your ideas about the time complexity of these two functions?
