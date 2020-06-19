@@ -46,3 +46,15 @@ In a standard answer we are looking for the following things
 * Sometimes, for some of those tests, we do not need code, and rather some kind of text output (e.g. Two versions of same algorightm is given and asked to make a comparison among them)
 
 * In those cases you just give the text output in a clean and easy-to-read way via either a Markdown file, or a text file. Please indicate different sections of the text files. 
+
+
+## Index
+
+1. [Chemical Formula Checking](https://github.com/autosoft-dev/take-home-test/tree/master/tests/chemical_formula_checking)
+
+2. [Compare The Fibonaccis](https://github.com/autosoft-dev/take-home-test/tree/master/tests/compare_the_fibonaccis)
+
+3. [Docstring Paring](https://github.com/autosoft-dev/take-home-test/tree/master/tests/docstring_parsing)
+
+4. [Regex to NL](https://github.com/autosoft-dev/take-home-test/tree/master/tests/regex_2_nl)
+
